@@ -1,0 +1,43 @@
+
+    body {
+
+    background-color:#FFFEE6;
+      font: 15px Didot, sans-serif;
+      line-height: 1.5;
+      color: black;
+
+ }.bg-1 {
+      background-color: #F9E9F3; /* Pink */
+      color: black;
+  }
+  .bg-2 {
+      background-color: #F7FEFF; /* Lighter Pink */
+      color: black;
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .bg-3 {
+      background-color: #FFFEE6; /* Lighter Pink */
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .bg-4 {
+      background-color: #FFFEE6; /* Lighter Pink */
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 10px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
